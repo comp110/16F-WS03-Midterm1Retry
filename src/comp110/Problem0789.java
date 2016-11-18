@@ -9,7 +9,7 @@ public class Problem0789 {
     // Dept   Num   Hours
     // COMP   401   4
     // COMP   410   3
-    // COMP   410   3
+    // ECON   410   3
 
     Course comp401, comp410, econ410;
 
