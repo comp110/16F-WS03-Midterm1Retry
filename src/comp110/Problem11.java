@@ -4,6 +4,8 @@ public class Problem11 {
 
   public static void main(String[] args) {
 
+    // !!!! DO YOUR WORK IN Courses.java !!!!
+    
     Courses all = Utils.load("data.csv");
 
     Courses comp, psyc, econ, lvl100, hours3, hours4;
